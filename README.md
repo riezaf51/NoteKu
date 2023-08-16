@@ -1,3 +1,3 @@
 # NoteKu
 
-# Simple Notes Application with CRUD implemented
+### Simple Notes Application with CRUD implemented
