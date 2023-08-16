@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bnv_navigation"
+    app:startDestination="@id/action_create">
+
+    <fragment
+        android:id="@+id/action_create"
+        android:name="id.kodesumsi.noteku.fragments.CreateFragment"
+        android:label="fragment_create"
+        tools:layout="@layout/fragment_create" />
+
+    <fragment
+        android:id="@+id/action_list"
+        android:name="id.kodesumsi.noteku.fragments.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" />
+</navigation>

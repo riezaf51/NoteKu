@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284347822502",
+    "project_id": "id-kodesumsi-noteku",
+    "storage_bucket": "id-kodesumsi-noteku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284347822502:android:b933f5b5e14de5659b9f67",
+        "android_client_info": {
+          "package_name": "id.kodesumsi.noteku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284347822502-1upp03mrp6ednem3nlqcnneveejo25ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwGvJSs8n4-yhLh2c-H7eK9A2tOO2k-aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284347822502-1upp03mrp6ednem3nlqcnneveejo25ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

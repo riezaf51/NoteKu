@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteKu</string>
+    <string name="title_placeholder">Lorem Ipsum</string>
+    <string name="description_placeholder">Lorem ipsum der ging</string>
+    <string name="all_note">All Notes</string>
+    <string name="placeholder">Test</string>
+</resources>
